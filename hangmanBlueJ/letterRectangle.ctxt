@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=letterRectangle
+comment1.params=
+comment1.target=letterRectangle()
+comment2.params=imgPassword\ imageDirectory\ imageType
+comment2.target=letterRectangle(java.lang.String,\ java.lang.String,\ java.lang.String)
+comment3.params=
+comment3.target=void\ loadRack()
+comment4.params=
+comment4.target=void\ buildRack()
+comment5.params=l
+comment5.target=void\ attachListeners(java.awt.event.MouseListener)
+comment6.params=
+comment6.target=void\ removeListeners()
+numComments=7

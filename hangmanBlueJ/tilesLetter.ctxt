@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=tilesLetter
+comment1.params=
+comment1.target=tilesLetter()
+comment2.params=imageLetter\ imageDIR\ imageType
+comment2.target=tilesLetter(char,\ java.lang.String,\ java.lang.String)
+comment3.params=image_path
+comment3.target=java.awt.image.BufferedImage\ loadImage(java.lang.String)
+comment4.params=suffix
+comment4.target=void\ loadNewImage(java.lang.String)
+comment5.params=newOne
+comment5.target=void\ addTileListener(java.awt.event.MouseListener)
+comment6.params=
+comment6.target=void\ removeTileListener()
+comment7.params=
+comment7.target=char\ guess()
+comment8.params=newG
+comment8.target=void\ paintComponent(java.awt.Graphics)
+numComments=9

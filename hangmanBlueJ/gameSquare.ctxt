@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=gameSquare
+comment1.params=
+comment1.target=gameSquare()
+comment10.params=
+comment10.target=void\ passwordGen()
+comment11.params=
+comment11.target=void\ lengthCheck()
+comment12.params=
+comment12.target=void\ newGameDialog()
+comment2.params=
+comment2.target=void\ initialize()
+comment3.params=
+comment3.target=void\ addCloseWindowListener()
+comment4.params=we
+comment4.target=void\ windowClosing(java.awt.event.WindowEvent)
+comment5.params=
+comment5.target=void\ addTextPanel()
+comment6.params=
+comment6.target=void\ addLetterRack()
+comment7.params=
+comment7.target=void\ addHangman()
+comment8.params=fileName
+comment8.target=java.lang.String\ getCategory(java.lang.String)
+comment9.params=
+comment9.target=void\ getPassword()
+numComments=13
